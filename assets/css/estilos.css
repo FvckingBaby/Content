@@ -219,55 +219,12 @@ input[type=submit]:hover{
     color: rgb(212, 49, 49);
 }
 
-/*Images*/
-
-
-.proyects-image {
-    list-style: none;
-    width: 100%;
-
-}
-
-.proyects-image li {
-    display: block;
-    float: left;
-    width: 25%;
-}
-
-.photo {
-    width: 100%;
-    margin: 0;
-    overflow: hidden;
-    background-color: #000;
-
-}
-
-
-.photo img:hover {
-    opacity: 1;
-    transform: scale(1.03);
-}
 
 
 
 
-/* footer */
 
-footer{
-    background-color: rgb(31, 29, 29);
-    padding: 30px;
-    font-size: 80%;
-}
 
-.footer-nav{
-    list-style: none;
-    float: left;
-}
-
-.social-link{
-    list-style: none;
-    float: right;
-}
 
 
 
